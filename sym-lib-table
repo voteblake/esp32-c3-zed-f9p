@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name "ESP32-C3")(type "KiCad")(uri "${KIPRJMOD}/ESP32-C3.kicad_sym")(options "")(descr ""))
+  (lib (name "SparkFun-ZED-F9P-BOB")(type "KiCad")(uri "${KIPRJMOD}/SparkFun-ZED-F9P-BOB.kicad_sym")(options "")(descr ""))
+)
